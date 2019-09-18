@@ -1,8 +1,8 @@
-package blanco_03;
+package blanco_p3;
 
 import java.util.Scanner;
 
-public class blanco_03 {
+public class blanco_p3 {
 
 	public static void main(String[] args) {
 		
